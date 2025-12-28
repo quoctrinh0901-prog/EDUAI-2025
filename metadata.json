@@ -1,0 +1,7 @@
+{
+  "name": " EDU AI ",
+  "description": "Nền tảng quản lý học tập thông minh dành cho Giáo viên và Học sinh Việt Nam, tích hợp Minigames và AI hỗ trợ.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
